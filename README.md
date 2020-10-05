@@ -34,9 +34,15 @@ I joined IEEE in my first year for my goal towards helping community. I voluntee
 
 # More About me?
 [My Website](https://karthikeyan2000.github.io)
+
 [My Resume](https://github.com/karthikeyan2000/karthikeyan2000/tree/main)
+
 [Email Me](mailto:karthikeyan.k2000@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/karthikeyank2000/)
+
 [Facebook](https://www.facebook.com/karthikeyank2000/)
+
 [Instagram](https://www.instagram.com/karthikeyan.k2000/)
+
 [Twitter](https://twitter.com/karthi_2000)
