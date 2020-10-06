@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Karthikeyan.
 
-I'm a pre-final year student at **SASTRA** Deemed To Be University pursuing my Bachelor's Degree in **Computer Science and Engineering**. I'm interested in **Software Development**. I have worked on Android Development in both Java and Kotlin, Flutter Development, Web Development in Bootstrap and PHP(LAMP STACK), Cloud Solutions in both AWS and GCP, iOS Development in Swift and Game Development in Unity 3D.
+I'm a pre-final year student at **SASTRA Deemed to be University** pursuing my Bachelor's Degree in **Computer Science and Engineering**. I'm interested in **Software Development**. I am the current Lead at DSC SASTRA Deemed to be University and a member of IEEE CS Society. I have worked on Android Development in both Java and Kotlin, Flutter Development, Web Development in Bootstrap and PHP(LAMP STACK), Cloud Solutions in both AWS and GCP, iOS Development in Swift and Game Development in Unity 3D. I'm also a part-time musician.
 
 I have completed few courses and specialization from Coursera on GCP, iOS Development and Game Development. I started my Android Development from the free course offered by Google on Udacity. After completing those courses I applied and **joined DSC SASTRA** Deemed to be University as Core Team member of Android Cluster.
 
@@ -40,9 +40,3 @@ I **joined IEEE** in my first year for my goal towards helping community. I volu
 [Email Me](mailto:karthikeyan.k2000@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/karthikeyank2000/)
-
-[Facebook](https://www.facebook.com/karthikeyank2000/)
-
-[Instagram](https://www.instagram.com/karthikeyan.k2000/)
-
-[Twitter](https://twitter.com/karthi_2000)
