@@ -35,7 +35,7 @@ I **joined IEEE** in my first year for my goal towards helping community. I volu
 # More About me?
 [My Website](https://karthikeyan2000.github.io/index.html)
 
-[My Resume](https://github.com/karthikeyan2000/karthikeyan2000/tree/main)
+[My Resume](https://github.com/karthikeyan2000/karthikeyan2000/blob/main/resume.pdf)
 
 [Email Me](mailto:karthikeyan.k2000@gmail.com)
 
