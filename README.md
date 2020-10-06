@@ -40,3 +40,5 @@ I **joined IEEE** in my first year for my goal towards helping community. I volu
 [Email Me](mailto:karthikeyan.k2000@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/karthikeyank2000/)
+
+[DSC Profile](https://dsc.community.dev/u/mcfcru/)
