@@ -33,7 +33,7 @@ I **joined IEEE** in my first year for my goal towards helping community. I volu
 - Laravel
 
 # More About me?
-[My Website](https://karthikeyan2000.github.io)
+[My Website](https://karthikeyan2000.github.io/index.html)
 
 [My Resume](https://github.com/karthikeyan2000/karthikeyan2000/tree/main)
 
